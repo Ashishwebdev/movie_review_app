@@ -35,7 +35,7 @@ gem 'bootstrap-sass', '~> 3.3.6'
 # gem 'capistrano-rails', group: :development
 gem 'devise', '~> 4.3'
 gem 'carrierwave', '~> 1.1'
-
+gem 'searchkick', '~> 2.3', '>= 2.3.1'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug'
